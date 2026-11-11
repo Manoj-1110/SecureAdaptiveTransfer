@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#0E3B5C</color>
+    <color name="teal">#2EC4B6</color>
+    <color name="surface">#F4F7FA</color>
+    <color name="profile_standard">#2E7D32</color>
+    <color name="profile_enhanced">#EF8F00</color>
+    <color name="profile_maximum">#C62828</color>
+    <color name="muted">#5F6B76</color>
+</resources>

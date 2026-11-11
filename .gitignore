@@ -1,0 +1,17 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.cxx/
+.kotlin/
+.tools/
+.gradle-user-home/
+*.log
+.DS_Store
+.env
+.env.*
+*.jks
+*.keystore
+.aws/

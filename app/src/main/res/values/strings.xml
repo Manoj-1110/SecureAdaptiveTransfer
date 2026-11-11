@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure Adaptive Transfer</string>
+    <string name="subtitle">Adaptive AES-256-GCM peer-to-peer file sharing</string>
+    <string name="mode_send">Send files</string>
+    <string name="mode_receive">Receive files</string>
+    <string name="connection">1 · Connection</string>
+    <string name="discover">Find nearby devices (Wi-Fi Direct)</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="receiver_ip">Receiver IP address</string>
+    <string name="receiver_ip_help">Filled automatically after a Wi-Fi Direct connection, or type the IP shown on the receiver (same Wi-Fi).</string>
+    <string name="files">2 · Files &amp; adaptive security</string>
+    <string name="pick_files">Choose files</string>
+    <string name="clear">Clear</string>
+    <string name="treat_public">Treat current Wi-Fi as public / untrusted</string>
+    <string name="profile_mode">Security profile</string>
+    <string name="auto">Auto</string>
+    <string name="standard">Standard</string>
+    <string name="enhanced">Enhanced</string>
+    <string name="maximum">Maximum</string>
+    <string name="password">Shared password (Maximum profile)</string>
+    <string name="password_help">Use 8+ characters. Share this password in person; it never travels over the network.</string>
+    <string name="send">Encrypt &amp; send</string>
+    <string name="receive">3 · Receive</string>
+    <string name="start_receiving">Start receiving</string>
+    <string name="stop_receiving">Stop receiving</string>
+    <string name="status">Transfer status</string>
+    <string name="verification_hint">Confirm the matching code on BOTH phones before any file is transferred.</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_password">Enter the shared password</string>
+    <string name="no_files">No files selected</string>
+    <string name="clear_partial_files">Delete saved partial transfers</string>
+    <string name="file_description">%1$s · %2$s</string>
+    <string name="profile_description">%1$s · AES-256-GCM · %2$s chunks · keys %3$s%4$s</string>
+    <string name="manual_minimum"> (manual choice; automatic minimum enforced)</string>
+    <string name="peer_description">%1$s · %2$s</string>
+    <string name="unverified_code">— — —</string>
+</resources>
